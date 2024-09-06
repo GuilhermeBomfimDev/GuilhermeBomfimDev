@@ -34,7 +34,7 @@ Destaques: Orientação a objetos, uso de funções e lógica de programação.
 
 Descrição: Landing Page para uma loja de bolos.
 
-Tecnologias: HTML5, CSS, Node.js.
+Tecnologias: HTML5, CSS, C#, MySQL.
 
 Destaques: Conexão com banco de dados, página de login, página de cadastro, menu responsivo.
 
