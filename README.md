@@ -22,7 +22,15 @@ Sou um programador de sistemas de computador especializado em programação de f
 
 
 ## 📝 Projetos
-### Projeto 1: Game Store
+### Projeto 1: SisControl
+
+Descrição: Projeto FullStack de um sistema de estoque com controle de acesso.
+
+Tecnologias: HTML5, CSS, C#, SQL, Azure.
+
+Destaques: Página de login, página de cadastro, menu feito com javascript, API que faz requisições no banco de dados, backend hospedado no Azure e frontend hospedado no github pages.
+
+### Projeto 2: Game Store
 
 Descrição: Sistema de terminal para loja de itens eletrônicos com objetivo de gerenciar o estoque.
 
@@ -30,7 +38,7 @@ Tecnologias: C# e .NET
 
 Destaques: Orientação a objetos, uso de funções e lógica de programação.
 
-### Projeto 2: CakesForYou
+### Projeto 3: CakesForYou
 
 Descrição: Landing Page para uma loja de bolos.
 
