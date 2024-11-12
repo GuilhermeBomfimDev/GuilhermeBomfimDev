@@ -51,7 +51,7 @@ Destaques: Conexão com banco de dados, página de login, página de cadastro, m
     <img align="center" alt="HTML" height="30" width="40" src="https://img.icons8.com/?size=100&id=YWDsCjL0c2qv&format=png&color=000000"/>
     <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"/>
-    <img align="center" alt="SQL" height="30" width="40" src="https://www.google.com/imgres?q=sql%20server%20icon&imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180704%2Fpkf%2Faaxs41yua.webp&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-microsoft-sql-server-database-server-computer-icon-4738190%2F&docid=l2EPt_uFjjXsZM&tbnid=DeolizKrS-RQLM&vet=12ahUKEwjNh9Oyw9WJAxVvCbkGHZuFCWkQM3oECFgQAA..i&w=900&h=520&hcb=2&ved=2ahUKEwjNh9Oyw9WJAxVvCbkGHZuFCWkQM3oECFgQAA"/>
+    <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000"/>
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
