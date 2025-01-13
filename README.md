@@ -19,7 +19,9 @@ Estou em constante aprendizado e busco aprimorar minhas habilidades em desenvolv
 - **JavaScript**: Criação de interfaces interativas.  
 
 ### Frameworks e Ferramentas  
-- **.NET**: Desenvolvimento de aplicações completas.  
+- **.NET**
+- **Bootstrap**
+- **React**
 
 ### Bancos de Dados  
 - **MySQL**: Estruturação e manipulação de dados.  
