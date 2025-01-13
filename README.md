@@ -58,7 +58,18 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 
 ---
 
-### **Projeto 2: Game Store**  
+### **Projeto 2: SalesWeb**  
+- **Descrição**: Um sistema de gestão de vendas desenvolvido em ASP.NET Core MVC.  
+- **Tecnologias**: C#, ASP.NET Core, SQL Server, HTML/CSS, Bootstrap.  
+- **Funcionalidades**:  
+  - Gestão de departamentos, vendedores e registros de vendas.  
+  - Filtros por data para consultas.  
+  - Integração completa entre backend e banco de dados.  
+- **Destaques**: Organização modular com uso de Entity Framework Core para mapeamento objeto-relacional.
+
+---
+
+### **Projeto 3: Game Store**  
 - **Descrição**: Um sistema de terminal para gerenciamento de estoque em uma loja de itens eletrônicos.  
 - **Tecnologias**: C# e .NET.  
 - **Funcionalidades**:  
@@ -68,7 +79,7 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 
 ---
 
-### **Projeto 3: CakesForYou**  
+### **Projeto 4: CakesForYou**  
 - **Descrição**: Landing Page para uma loja de bolos com integração ao banco de dados.  
 - **Tecnologias**: HTML5, CSS, C#, MySQL.  
 - **Funcionalidades**:  
@@ -76,11 +87,6 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
   - Menu responsivo e estilizado.  
   - Conexão do frontend com banco de dados para armazenar pedidos.  
 - **Destaques**: Estilo atraente e funcionalidade prática.  
-
----
-
-### **[Espaço para Novos Projetos]**  
-_(Adicione aqui outros projetos no futuro!)_  
 
 ---
 
