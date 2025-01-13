@@ -16,7 +16,6 @@ Estou em constante aprendizado e busco aprimorar minhas habilidades em desenvolv
 
 ### Linguagens de Programação  
 - **C#**: Desenvolvimento de APIs e sistemas robustos.  
-- **Python**: Scripts e automações.  
 - **JavaScript**: Criação de interfaces interativas.  
 
 ### Frameworks e Ferramentas  
