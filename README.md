@@ -39,7 +39,7 @@ Estou em constante aprendizado e busco aprimorar minhas habilidades em desenvolv
 
 Aqui está um gráfico que representa as tecnologias que mais utilizo:  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?GuilhermeBomfimDev=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBomfimDev&size_weight=0.5&count_weight=0.5)
 
 ---
 
