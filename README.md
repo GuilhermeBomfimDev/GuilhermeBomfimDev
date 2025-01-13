@@ -47,7 +47,7 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 ## 📝 Projetos  
 
 ### **Projeto 1: SisControl**  
-- **Link**: [https://github.com/GuilhermeBomfimDev/SalesWeb](https://github.com/GuilhermeBomfimDev/SalesWeb)
+- **Link**: [https://github.com/GuilhermeBomfimDev/SisControl](https://github.com/GuilhermeBomfimDev/SisControl/tree/main)
 - **Descrição**: Um sistema FullStack para controle de estoque.  
 - **Tecnologias**: HTML5, CSS, JavaScript, C#, SQL, Azure.  
 - **Funcionalidades**:  
@@ -60,7 +60,7 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 ---
 
 ### **Projeto 2: SalesWeb**  
-- **Link**: [https://github.com/GuilhermeBomfimDev/SalesWeb](https://github.com/GuilhermeBomfimDev/SisControl/tree/main)
+- **Link**: [https://github.com/GuilhermeBomfimDev/SalesWeb](https://github.com/GuilhermeBomfimDev/SalesWeb)
 - **Descrição**: Um sistema de gestão de vendas desenvolvido em ASP.NET Core MVC.  
 - **Tecnologias**: C#, ASP.NET Core, SQL Server, HTML/CSS, Bootstrap.  
 - **Funcionalidades**:  
