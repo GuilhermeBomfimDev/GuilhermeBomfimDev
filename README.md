@@ -1,62 +1,96 @@
-# 👋 Olá, eu sou Guilherme
+# 👋 Olá, eu sou Guilherme  
 
+Bem-vindo ao meu repositório GitHub! Aqui você encontrará projetos que demonstram minha jornada e habilidades no desenvolvimento de sistemas.  
 
-## 🧑‍💻 Sobre Mim
+---
 
-Sou um programador de sistemas de computador especializado em programação de fluxo (LowCode) em uma empresa de desenvolvimento de software de atendimento eletrônico. Com experiência prévia como inspetor de qualidade, monitoro atendimentos para garantir padrões de produção, além de oferecer suporte e treinamento para manter a qualidade dos atendimentos.
+## 🧑‍💻 Sobre Mim  
 
+Sou um programador de sistemas de computador especializado em **desenvolvimento de software** e **fluxo LowCode** em uma empresa de tecnologia. Minha experiência abrange tanto o **back-end** quanto o **front-end**, com foco em **C#**, **.NET**, **JavaScript** e **MySQL**.  
 
-## 🚀 Minhas Skills
+Estou em constante aprendizado e busco aprimorar minhas habilidades em desenvolvimento FullStack.  
 
-• Linguagens de Programação: C#, Python e JavaScript
+---
 
-• Frameworks e Ferramentas: .NET, Node.js
+## 🚀 Minhas Habilidades  
 
-• Desenvolvimento LowCode: OutSystem
+### Linguagens de Programação  
+- **C#**: Desenvolvimento de APIs e sistemas robustos.  
+- **Python**: Scripts e automações.  
+- **JavaScript**: Criação de interfaces interativas.  
 
-• Banco de Dados: MySQL
+### Frameworks e Ferramentas  
+- **.NET**: Desenvolvimento de aplicações completas.  
 
-• Outras Tecnologias: Git, GitHub
+### Bancos de Dados  
+- **MySQL**: Estruturação e manipulação de dados.  
+- **SQL Server**: Consultas e manutenção.  
 
-• Qualidade e Suporte: Monitoramento de atendimento, Treinamento e suporte técnico
+### Desenvolvimento LowCode  
+- **OutSystems**: Soluções rápidas e práticas.  
 
+### Outras Tecnologias  
+- **Git e GitHub**: Controle de versão e colaboração.  
+- **Azure**: Hospedagem e gerenciamento de APIs.  
 
-## 📝 Projetos
-### Projeto 1: SisControl
+---
 
-Descrição: Projeto FullStack de um sistema de estoque com controle de acesso.
+## 📊 Tecnologias Mais Usadas  
 
-Tecnologias: HTML5, CSS, C#, SQL, Azure.
+Aqui está um gráfico que representa as tecnologias que mais utilizo:  
 
-Destaques: Página de login, página de cadastro, menu feito com javascript, API que faz requisições no banco de dados, backend hospedado no Azure e frontend hospedado no github pages.
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-bomfim&layout=compact&theme=radical)  
 
-### Projeto 2: Game Store
+---
 
-Descrição: Sistema de terminal para loja de itens eletrônicos com objetivo de gerenciar o estoque.
+## 📝 Projetos  
 
-Tecnologias: C# e .NET
+### **Projeto 1: SisControl**  
+- **Descrição**: Um sistema FullStack para controle de estoque.  
+- **Tecnologias**: HTML5, CSS, JavaScript, C#, SQL, Azure.  
+- **Funcionalidades**:  
+  - Página de login e cadastro de usuários.  
+  - API conectada a um banco de dados SQL para operações CRUD.  
+  - Frontend responsivo hospedado no GitHub Pages.  
+  - Backend hospedado no Azure.  
+- **Destaques**: Integração completa entre frontend e backend com autenticação segura.  
 
-Destaques: Orientação a objetos, uso de funções e lógica de programação.
+---
 
-### Projeto 3: CakesForYou
+### **Projeto 2: Game Store**  
+- **Descrição**: Um sistema de terminal para gerenciamento de estoque em uma loja de itens eletrônicos.  
+- **Tecnologias**: C# e .NET.  
+- **Funcionalidades**:  
+  - Gerenciamento de produtos e quantidades.  
+  - Implementação de princípios de orientação a objetos.  
+- **Destaques**: Excelente para entender lógica e estrutura de sistemas básicos.  
 
-Descrição: Landing Page para uma loja de bolos.
+---
 
-Tecnologias: HTML5, CSS, C#, MySQL.
+### **Projeto 3: CakesForYou**  
+- **Descrição**: Landing Page para uma loja de bolos com integração ao banco de dados.  
+- **Tecnologias**: HTML5, CSS, C#, MySQL.  
+- **Funcionalidades**:  
+  - Página de login e cadastro de clientes.  
+  - Menu responsivo e estilizado.  
+  - Conexão do frontend com banco de dados para armazenar pedidos.  
+- **Destaques**: Estilo atraente e funcionalidade prática.  
 
-Destaques: Conexão com banco de dados, página de login, página de cadastro, menu responsivo.
+---
 
-<div style="display: flex; align-items: center;">
-    <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="HTML" height="30" width="40" src="https://img.icons8.com/?size=100&id=YWDsCjL0c2qv&format=png&color=000000"/>
-    <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-    <img align="center" alt="MySQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"/>
-    <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=Lk9yC4HS5r3p&format=png&color=000000"/>
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-</div>
+### **[Espaço para Novos Projetos]**  
+_(Adicione aqui outros projetos no futuro!)_  
 
-## 📫 Como Me Encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bomfim-7a87aa295/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521998911029?text=Olá%2C%20)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.bomfim98@hotmail.com)
+---
 
+## 📫 Como Me Encontrar  
+
+Sinta-se à vontade para entrar em contato!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bomfim-7a87aa295/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521998911029?text=Olá%2C%20)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.bomfim98@hotmail.com)  
+
+---
+
+Espero que você goste de explorar meus projetos tanto quanto eu gostei de desenvolvê-los!  
