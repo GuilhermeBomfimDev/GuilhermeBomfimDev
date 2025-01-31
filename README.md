@@ -10,29 +10,51 @@ Sou um programador de sistemas de computador especializado em **desenvolvimento 
 
 Estou em constante aprendizado e busco aprimorar minhas habilidades em desenvolvimento FullStack.  
 
+**Veja de forma mais detalhada no meu portifólio pessoal**
+- **Link**: https://guilhermebomfimdev.github.io/Portifolio-React-TypeScript/
+
 ---
 
 ## 🚀 Minhas Habilidades  
 
 ### Linguagens de Programação  
 - **C#**: Desenvolvimento de APIs e sistemas robustos.  
-- **JavaScript**: Criação de interfaces interativas.  
+- **JavaScript**: Criação de interfaces interativas.
+- **Java**: Desenvolvimento de sistemas integrados com Banco de dados e APIs.
+- **Typescript**: Criação de sites responsivos.
+- **Python**: Criação de pequenas automações.   
 
 ### Frameworks e Ferramentas  
 - **.NET**
 - **Bootstrap**
 - **React**
+- **Spring**
 
 ### Bancos de Dados  
 - **MySQL**: Estruturação e manipulação de dados.  
-- **SQL Server**: Consultas e manutenção.  
+- **SQL Server**: Consultas e manutenção.
+- **H2**: Banco de dados para testes
+- **Postgre**: Consultas e manutenção.  
 
-### Desenvolvimento LowCode  
-- **OutSystems**: Soluções rápidas e práticas.  
+### Cloud  
+- **Azure**: Hospedagem e gerenciamento de APIs.
 
-### Outras Tecnologias  
-- **Git e GitHub**: Controle de versão e colaboração.  
-- **Azure**: Hospedagem e gerenciamento de APIs.  
+### Versionamento  
+- **Git**
+- **Github**
+
+### IDEs
+- **Visual Studio**
+- **Visual Studio Code**
+- **Spring Tools Suite 4**
+- **IntelliJ**
+
+### API Client
+- **Postman**
+- **Swagger**
+
+### Sistema Operacional
+- **Windows**
 
 ---
 
