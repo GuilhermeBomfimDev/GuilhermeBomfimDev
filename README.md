@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório GitHub! Aqui você encontrará projetos que demons
 
 ## 🧑‍💻 Sobre Mim  
 
-Sou um programador de sistemas de computador especializado em **desenvolvimento de software** e **fluxo LowCode** em uma empresa de tecnologia. Minha experiência abrange tanto o **back-end** quanto o **front-end**, com foco em **C#**, **.NET**, **JavaScript** e **MySQL**.  
+Sou um programador de sistemas de computador com foco em especialização em **desenvolvimento de software**. Minha experiência abrange tanto o **back-end** quanto o **front-end**, com foco em **C#**, **.NET**, **JavaScript** e **SQL Server**.  
 
 Estou em constante aprendizado e busco aprimorar minhas habilidades em desenvolvimento FullStack.  
 
@@ -66,9 +66,22 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 
 ---
 
-## 📝 Projetos  
+## 📝 Projetos 
 
-### **Projeto 1: SisControl**  
+### **Projeto 1: Portifólio**  
+- **Link**: [https://github.com/GuilhermeBomfimDev/Portifolio-React-TypeScript](https://github.com/GuilhermeBomfimDev/Portifolio-React-TypeScript)
+- **Descrição**: Um site contendo uma breve descrição sobre mim, meus projetos e skills principais.  
+- **Tecnologias**: TypeScript + SWC, React, Material UI, SCSS, Vite.  
+- **Funcionalidades**:  
+  - Página de responsiva.  
+  - Design adaptável a dispositivos Desktop e Mobile.  
+  - Hospedado no GitHub Pages.
+- **Destaques**: Site responsivo, atrativo e feito com as tecnologias mais atuais.
+- **Veja o site**: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBomfimDev&size_weight=0.5&count_weight=0.5)
+
+---
+
+### **Projeto 2: SisControl**  
 - **Link**: [https://github.com/GuilhermeBomfimDev/SisControl](https://github.com/GuilhermeBomfimDev/SisControl/tree/main)
 - **Descrição**: Um sistema FullStack para controle de estoque.  
 - **Tecnologias**: HTML5, CSS, JavaScript, C#, SQL, Azure.  
@@ -81,7 +94,7 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 
 ---
 
-### **Projeto 2: SalesWeb**  
+### **Projeto 3: SalesWeb**  
 - **Link**: [https://github.com/GuilhermeBomfimDev/SalesWeb](https://github.com/GuilhermeBomfimDev/SalesWeb)
 - **Descrição**: Um sistema de gestão de vendas desenvolvido em ASP.NET Core MVC.  
 - **Tecnologias**: C#, ASP.NET Core, SQL Server, HTML/CSS, Bootstrap.  
@@ -93,7 +106,7 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 
 ---
 
-### **Projeto 3: Game Store**  
+### **Projeto 4: Game Store**  
 - **Descrição**: Um sistema de terminal para gerenciamento de estoque em uma loja de itens eletrônicos.  
 - **Tecnologias**: C# e .NET.  
 - **Funcionalidades**:  
@@ -103,7 +116,7 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
 
 ---
 
-### **Projeto 4: CakesForYou**  
+### **Projeto 5: CakesForYou**  
 - **Descrição**: Landing Page para uma loja de bolos com integração ao banco de dados.  
 - **Tecnologias**: HTML5, CSS, C#, MySQL.  
 - **Funcionalidades**:  
