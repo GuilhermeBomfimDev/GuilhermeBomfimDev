@@ -77,7 +77,7 @@ Aqui está um gráfico que representa as tecnologias que mais utilizo:
   - Design adaptável a dispositivos Desktop e Mobile.  
   - Hospedado no GitHub Pages.
 - **Destaques**: Site responsivo, atrativo e feito com as tecnologias mais atuais.
-- **Veja o site**: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBomfimDev&size_weight=0.5&count_weight=0.5)
+- **Veja o site**: https://guilhermebomfimdev.github.io/Portifolio-React-TypeScript/
 
 ---
 
