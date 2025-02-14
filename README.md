@@ -10,7 +10,7 @@ Sou um programador de sistemas de computador com foco em especialização em **d
 
 Estou em constante aprendizado e busco aprimorar minhas habilidades em desenvolvimento FullStack.  
 
-**Veja de forma mais detalhada no meu portifólio pessoal**
+## **Veja de forma mais detalhada no meu portifólio pessoal**
 - **Link**: https://guilhermebomfimdev.github.io/Portifolio-React-TypeScript/
 
 ---
